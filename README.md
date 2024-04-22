@@ -24,8 +24,8 @@ A Python application that allows you to control media playback using hand gestur
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/hand-gesture-media-controller.git
-cd hand-gesture-media-controller
+git clone https://github.com/Mihir1784/GestureBits.git
+cd GestureBits
 ```
 
 2. Install the required packages:
@@ -52,7 +52,7 @@ python main.py
 ## Project Structure
 
 ```
-hand-gesture-media-controller/
+GestureBits/
 ├── core/
 │   ├── hand_detector.py    # Hand detection and landmark processing
 │   ├── gesture_controller.py    # Gesture recognition logic
